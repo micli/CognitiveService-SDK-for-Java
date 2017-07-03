@@ -1,0 +1,6 @@
+package com.github.micli.cognitiveservice.api;
+
+public class EmotionTest {
+
+	
+}
