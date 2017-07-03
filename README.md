@@ -1,7 +1,4 @@
 # CognitiveService-SDK-for-Java
-A Java project of Encapsulates Cognitive Service API
-
-# CognitiveService-SDK-for-Java
 A project of Java encapsulates Cognitive Service REST API.
 ## Why I create this project ?
 Yes, Cognitive Service offers REST API and language independent. But if you investigate these APIs will find that they are a little bit complicated. I create this project just want to simplify these APIs usage. And I also want to enable more and more developer developing more intelligence apps by Cognitive Service.
