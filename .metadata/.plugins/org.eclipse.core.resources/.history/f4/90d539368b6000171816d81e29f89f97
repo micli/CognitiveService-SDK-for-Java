@@ -1,0 +1,7 @@
+package com.github.micli.cognitiveservice.api.vision;
+
+import com.github.micli.cognitiveservice.api.common.CognitiveWebAPIBaseClass;
+
+public class Vision extends CognitiveWebAPIBaseClass {
+
+}

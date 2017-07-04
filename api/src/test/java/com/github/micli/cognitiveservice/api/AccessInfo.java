@@ -42,13 +42,30 @@ package com.github.micli.cognitiveservice.api;
 // Please access Azure manage portal and acquire access service end point and access key. 
 // Please guarantee service end point and key are both available before doing unite test.
 public class AccessInfo {
-	private static String _URI = "https://eastus2.api.cognitive.microsoft.com/face/v1.0";
-	private static String _accessKey = "7eadb4d4213544d8a4bb0149f96c5791";
-	public static String getURI() {
-		return _URI;
-	}
-	public static String getAccessKey() {
-		return _accessKey;
-	}
 	
+	private static String _faceURI = "https://api.cognitive.azure.cn/face/v1.0";
+	private static String _faceAccessKey = "<input your access key here>";
+	private static String _emotionURI = "https://api.cognitive.azure.cn/emotion/v1.0";
+	private static String _emotionAccessKey = "<input your access key here>";
+	private static String _visionURI = "https://api.cognitive.azure.cn/vision/v1.0";
+	private static String _visionAccessKey = "<input your access key here>";
+	
+	public static String getFaceURI() {
+		return _faceURI;
+	}
+	public static String getFaceAccessKey() {
+		return _faceAccessKey;
+	}
+	public static String getEmotionURI() {
+		return _emotionURI;
+	}
+	public static String getEmotionAccessKey() {
+		return _emotionAccessKey;
+	}
+	public static String getVisionURI() {
+		return _visionURI;
+	}
+	public static String getVisionAccessKey() {
+		return _visionAccessKey;
+	}
 }

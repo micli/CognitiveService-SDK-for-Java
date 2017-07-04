@@ -74,6 +74,6 @@ public final class FaceRectangle {
 	}
 	// To String.
 	public String toString() {
-		return String.format("%d,%d,%d,%d", top, left, width, height);
+		return String.format("%d,%d,%d,%d", left, top, width, height);
 	}
 }

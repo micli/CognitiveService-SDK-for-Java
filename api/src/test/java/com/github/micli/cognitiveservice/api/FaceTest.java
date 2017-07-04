@@ -75,10 +75,10 @@ public final class FaceTest {
 	private FaceList faceList;
 	public FaceTest() {
 		try {
-			face = new Face(new URI(AccessInfo.getURI()), AccessInfo.getAccessKey());
-			pg = new PersonGroup(new URI(AccessInfo.getURI()), AccessInfo.getAccessKey());
-			p = new Person(new URI(AccessInfo.getURI()), AccessInfo.getAccessKey());
-			faceList = new FaceList(new URI(AccessInfo.getURI()), AccessInfo.getAccessKey());
+			face = new Face(new URI(AccessInfo.getFaceURI()), AccessInfo.getFaceAccessKey());
+			pg = new PersonGroup(new URI(AccessInfo.getFaceURI()), AccessInfo.getFaceAccessKey());
+			p = new Person(new URI(AccessInfo.getFaceURI()), AccessInfo.getFaceAccessKey());
+			faceList = new FaceList(new URI(AccessInfo.getFaceURI()), AccessInfo.getFaceAccessKey());
 		} catch (URISyntaxException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

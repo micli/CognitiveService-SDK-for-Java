@@ -1,0 +1,54 @@
+// 
+// Michael Li(http://www.github.com/micli). All rights reserved.
+// Licensed under the MIT license.
+// 
+// Microsoft Cognitive Services: https://www.microsoft.com/cognitive-services
+// 
+// 
+// Copyright (c) Microsoft Corporation
+// All rights reserved.
+// 
+// MIT License:
+// Permission is hereby granted, free of charge, to any person obtaining
+// a copy of this software and associated documentation files (the
+// "Software"), to deal in the Software without restriction, including
+// without limitation the rights to use, copy, modify, merge, publish,
+// distribute, sublicense, and/or sell copies of the Software, and to
+// permit persons to whom the Software is furnished to do so, subject to
+// the following conditions:
+// 
+// The above copyright notice and this permission notice shall be
+// included in all copies or substantial portions of the Software.
+// 
+// THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND,
+// EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+// MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+// NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+// LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+// OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+// WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+// 
+
+// Notice:
+// Due to the limitation of Cognitive Service free access key(20 calls per minutes, 30K calls per month).
+// You could not run below test cases at one go. It might cause some of below cases occurs error randomly.
+// If you want to run below test cases together, you'd better acquire a business level key to access Cognitive Service.
+// If you just want to konw how to call these APIs. You can run below cases one by one.
+//
+
+package com.github.micli.cognitiveservice.api;
+
+// This is not an unit test class. This class only mantains Cognitive Service access information. 
+// Please access Azure manage portal and acquire access service end point and access key. 
+// Please guarantee service end point and key are both available before doing unite test.
+public class AccessInfo {
+	private static String _URI = "https://eastus2.api.cognitive.microsoft.com/face/v1.0";
+	private static String _accessKey = "7eadb4d4213544d8a4bb0149f96c5791";
+	public static String getURI() {
+		return _URI;
+	}
+	public static String getAccessKey() {
+		return _accessKey;
+	}
+	
+}

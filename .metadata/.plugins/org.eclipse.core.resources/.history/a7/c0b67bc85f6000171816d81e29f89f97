@@ -1,0 +1,64 @@
+package com.github.micli.cognitiveservice.api;
+
+import java.net.URI;
+import java.net.URISyntaxException;
+import java.util.ArrayList;
+import java.util.List;
+
+import org.junit.Test;
+
+import com.alibaba.fastjson.JSON;
+import com.alibaba.fastjson.JSONArray;
+import com.github.micli.cognitiveservice.api.emotion.*;
+import com.github.micli.cognitiveservice.api.face.FaceRectangle;
+import com.github.micli.cognitiveservice.api.face.VerifyValue;
+import com.github.micli.cognitiveservice.api.result.BooleanResult;
+import com.github.micli.cognitiveservice.api.result.ObjectResult;
+import com.github.micli.cognitiveservice.api.result.StringValueResult;
+
+
+public class EmotionTest {
+
+	private Emotion emotion;
+	public EmotionTest() {
+		try {
+			emotion = new Emotion(new URI(AccessInfo.getURI()), AccessInfo.getAccessKey());
+		} catch (URISyntaxException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+	
+	@Test
+	public void EmotionURITest() {
+		ObjectResult<List<EmotionValue>> result = 
+				emotion.recognizeFromInternetURL("https://micl.blob.core.windows.net/cstestimages/test-005.jpeg");
+		ArrayList<FaceRectangle> faceRectList = new ArrayList<FaceRectangle>();
+		for(EmotionValue ev : result.getInstance()) {
+			// It's only for test.
+			System.out.println(JSON.toJSON(ev));
+			faceRectList.add(ev.getFaceRectangle());
+			ObjectResult<List<EmotionValue>> result1 = 
+					emotion.recognizeFromInternetURL("https://micl.blob.core.windows.net/cstestimages/test-005.jpeg", faceRectList);
+			for(EmotionValue ev1 : result1.getInstance()) {
+				System.out.println(JSON.toJSON(ev1));
+			}
+		}
+	}
+	@Test
+	public void EmotionLocalFileTest() {
+		ObjectResult<List<EmotionValue>> result = 
+				emotion.recognizeFromLocalFile("https://micl.blob.core.windows.net/cstestimages/test-005.jpeg");
+		ArrayList<FaceRectangle> faceRectList = new ArrayList<FaceRectangle>();
+		for(EmotionValue ev : result.getInstance()) {
+			// It's only for test.
+			System.out.println(JSON.toJSON(ev));
+			faceRectList.add(ev.getFaceRectangle());
+			ObjectResult<List<EmotionValue>> result1 = 
+					emotion.recognizeFromLocalFile("https://micl.blob.core.windows.net/cstestimages/test-005.jpeg", faceRectList);
+			for(EmotionValue ev1 : result1.getInstance()) {
+				System.out.println(JSON.toJSON(ev1));
+			}
+		}
+	}
+}

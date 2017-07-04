@@ -56,7 +56,7 @@ public class PersonGroupTest extends TestCase {
 	
 	public PersonGroupTest() {
 		try {
-			pg = new PersonGroup(new URI(AccessInfo.getURI()), AccessInfo.getAccessKey());
+			pg = new PersonGroup(new URI(AccessInfo.getFaceURI()), AccessInfo.getFaceAccessKey());
 		} catch (URISyntaxException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

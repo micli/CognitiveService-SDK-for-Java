@@ -59,8 +59,8 @@ public class PersonTest {
 	private PersonGroup pg = null;
 	public PersonTest() {
 		try {
-			person = new Person(new URI(AccessInfo.getURI()), AccessInfo.getAccessKey());
-			pg = new PersonGroup(new URI(AccessInfo.getURI()), AccessInfo.getAccessKey());
+			person = new Person(new URI(AccessInfo.getFaceURI()), AccessInfo.getFaceAccessKey());
+			pg = new PersonGroup(new URI(AccessInfo.getFaceURI()), AccessInfo.getFaceAccessKey());
 		} catch (URISyntaxException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

@@ -1,0 +1,14 @@
+package com.github.micli.cognitiveservice.api.vision;
+
+import java.net.URI;
+
+import com.github.micli.cognitiveservice.api.common.CognitiveWebAPIBaseClass;
+
+public class Vision extends CognitiveWebAPIBaseClass {
+
+	public Vision(URI endPoint, String accessKey) {
+		super(endPoint, accessKey);
+	}
+	
+	public void OCR()
+}

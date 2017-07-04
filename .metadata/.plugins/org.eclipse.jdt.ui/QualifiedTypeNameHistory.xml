@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.github.micli.cognitiveservice.api.emotion.Emotion"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="com.github.micli.cognitiveservice.api.AccessInfo"/>
+<fullyQualifiedTypeName name="com.github.micli.cognitiveservice.api.emotion.EmotionValue"/>
+<fullyQualifiedTypeName name="java.net.URI"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.github.micli.cognitiveservice.api.common.URIUtils"/>
+<fullyQualifiedTypeName name="com.github.micli.cognitiveservice.api.common.RawResult"/>
+<fullyQualifiedTypeName name="com.github.micli.cognitiveservice.api.result.ObjectResult"/>
+<fullyQualifiedTypeName name="com.github.micli.cognitiveservice.api.common.CognitiveWebAPIError"/>
+<fullyQualifiedTypeName name="com.github.micli.cognitiveservice.api.common.HTTPVerb"/>
+<fullyQualifiedTypeName name="com.github.micli.cognitiveservice.api.common.CognitiveWebAPIBaseClass"/>
+<fullyQualifiedTypeName name="org.junit.Test"/>
+<fullyQualifiedTypeName name="com.github.micli.cognitiveservice.api.face.FaceRectangle"/>
+<fullyQualifiedTypeName name="com.github.micli.cognitiveservice.api.face.EmotionScores"/>
+<fullyQualifiedTypeName name="com.alibaba.fastjson.JSON"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+</qualifiedTypeNameHistroy>

@@ -59,7 +59,7 @@ public class FaceListTest {
 	private FaceList facelist;
 	public FaceListTest() {
 		try {
-			facelist = new FaceList(new URI(AccessInfo.getURI()), AccessInfo.getAccessKey());
+			facelist = new FaceList(new URI(AccessInfo.getFaceURI()), AccessInfo.getFaceAccessKey());
 		} catch (URISyntaxException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

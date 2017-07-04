@@ -1,0 +1,139 @@
+// 
+// Michael Li(http://www.github.com/micli). All rights reserved.
+// Licensed under the MIT license.
+// 
+// Microsoft Cognitive Services: https://www.microsoft.com/cognitive-services
+// 
+// 
+// Copyright (c) Microsoft Corporation
+// All rights reserved.
+// 
+// MIT License:
+// Permission is hereby granted, free of charge, to any person obtaining
+// a copy of this software and associated documentation files (the
+// "Software"), to deal in the Software without restriction, including
+// without limitation the rights to use, copy, modify, merge, publish,
+// distribute, sublicense, and/or sell copies of the Software, and to
+// permit persons to whom the Software is furnished to do so, subject to
+// the following conditions:
+// 
+// The above copyright notice and this permission notice shall be
+// included in all copies or substantial portions of the Software.
+// 
+// THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND,
+// EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+// MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+// NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+// LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+// OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+// WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+// 
+
+// Notice:
+// Due to the limitation of Cognitive Service free access key(20 calls per minutes, 30K calls per month).
+// You could not run below test cases at one go. It might cause some of below cases occurs error randomly.
+// If you want to run below test cases together, you'd better acquire a business level key to access Cognitive Service.
+// If you just want to konw how to call these APIs. You can run below cases one by one.
+//
+
+package com.github.micli.cognitiveservice.api;
+
+import static org.junit.Assert.*;
+
+import java.net.URI;
+import java.net.URISyntaxException;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.UUID;
+
+import org.junit.Test;
+
+import com.github.micli.cognitiveservice.api.face.FaceList;
+import com.github.micli.cognitiveservice.api.face.FaceListEntity;
+import com.github.micli.cognitiveservice.api.result.BooleanResult;
+import com.github.micli.cognitiveservice.api.result.ObjectResult;
+import com.github.micli.cognitiveservice.api.result.StringValueResult;
+
+public class FaceListTest {
+
+	private FaceList facelist;
+	public FaceListTest() {
+		try {
+			facelist = new FaceList(new URI(AccessInfo.getFaceURI()), AccessInfo.getAccessKey());
+		} catch (URISyntaxException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+	
+	@Test
+	public void testCreateandUpdateFaceList() {
+		// Step 1. Create Face List.
+		String faceListId = UUID.randomUUID().toString();
+		BooleanResult result1 = facelist.addFaceList(faceListId, "TestMyFaceList", "face++");
+		if(!result1.isSucceeded())
+			fail("Create Face List failed.");
+		System.out.println(String.format("FaceListId = %s", faceListId));
+		// Step 2. Update Face List Data and Name.
+		BooleanResult result2 = facelist.updateFaceList(faceListId, "Face List++", "face--");
+		if(!result2.isSucceeded())
+			fail("Update Face List failed.");
+		// Step 3. Get Face List data.
+		ObjectResult<FaceListEntity> result3 = facelist.getFaceList(faceListId);
+		if(!result3.isSucceeded())
+			fail("Get Face List failed.");
+		System.out.println(String.format("FaceListName = %s, FaceListData = %s", 
+				result3.getInstance().getName(), result3.getInstance().getUserData()));
+		// Step 4. Delete Face List.
+		BooleanResult result4 = facelist.deleteFaceList(faceListId);
+		if(!result4.isSucceeded())
+			fail("Delete Face list failed.");
+	}
+	
+	@Test
+	public void testAddFaceToFaceList() {
+		// Step 1. Create Face List.
+		String faceListId = UUID.randomUUID().toString();
+		BooleanResult result1 = facelist.addFaceList(faceListId, "TestMyFaceList", "face++");
+		if(!result1.isSucceeded())
+			fail("Create Face List failed.");
+		System.out.println(String.format("FaceListId = %s", faceListId));
+		// Step 2. Add a face from local file.
+		StringValueResult result2 = facelist.addFaceToFaceListFromLocalFile(faceListId, 
+				"/Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/test-materials/test-004.jpeg", 
+				"This is first face. it comes from local file.", null);
+		if(!result2.isSucceeded())
+			fail("Add Face which is from local file to face list failed.");
+		System.out.println(String.format("faceId1 = %s", result2.getStringValue()));
+		// Step 3. Add a face from Internet.
+		StringValueResult result3 = facelist.addFaceToFaceListFromURI(
+				faceListId, "https://micl.blob.core.windows.net/cstestimages/test-005.jpeg", 
+				"This is second face that comes from Internet.", null);
+		if(!result3.isSucceeded())
+			fail("Add a face which is from Internet to Face List failed.");
+		System.out.println(String.format("faceId2 = %s", result3.getStringValue()));
+		// Step 4. Delete Face List.
+		BooleanResult result4 = facelist.deleteFaceList(faceListId);
+		if(!result4.isSucceeded())
+			fail("Delete Face list failed.");
+	}
+	@Test
+	public void testGetAllListAndClean() {
+		// Step 1. Get all Face List.
+		List<String> idList = new ArrayList<String>();
+		ObjectResult<List<FaceListEntity>> faceListArray = facelist.getAllFaceList();
+		for(FaceListEntity fe : faceListArray.getInstance()) {
+			System.out.println(String.format("faceListId = %s, faceListName = %s, faceListData = %s", 
+					fe.getFaceListId(), fe.getName(), fe.getUserData()));
+			idList.add(fe.getFaceListId());
+		}
+		
+		// Step 2. Delete all
+		for(String id : idList) {
+			BooleanResult result = facelist.deleteFaceList(id);
+			if(!result.isSucceeded())
+				fail("delete Face List failed.");
+		}
+	}
+	
+}
