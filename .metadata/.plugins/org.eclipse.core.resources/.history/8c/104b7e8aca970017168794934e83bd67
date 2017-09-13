@@ -1,0 +1,52 @@
+package com.github.micli.cognitiveservice.api.vision;
+
+import java.net.URI;
+import java.util.ArrayList;
+
+import com.github.micli.cognitiveservice.api.result.ObjectResult;
+
+public class ChinaMainlandIdentityCard {
+	private Vision vision = null;
+	public ChinaMainlandIdentityCard(URI endPoint, String accessKey) {
+		// TODO Auto-generated constructor stub
+		vision = new Vision(endPoint, accessKey);
+	}
+
+    public ChinaMainlandIdentityCardInfo RetrieveFromLocalFile(String filePath){
+    	if(null == filePath || "" == filePath)
+    		return null;
+		ObjectResult<OCRValue> result = vision.OCRFromLocalFile(filePath);
+		if(!result.isSucceeded())
+			return null;
+		result.getInstance().
+    }
+    public ChinaMainlandIdentityCardInfo RetrieveFromInternetURL(String URL){
+    	
+    }
+    // 直接拿word
+    private ArrayList<OCRTextElement> BuildOCRTextElementArray(OCRValue ocrValue) {
+    	ArrayList<OCRTextElement> elements = new ArrayList<OCRTextElement>();
+    	if(null == ocrValue) 
+    		return elements;
+    	for(OCRRegionElement region : ocrValue.getRegions()) {
+    		for(OCRLineElement line : region.getLines()) {
+    			for(OCRTextElement word : line.getWords())
+    				elements.add(word);
+    		}
+    	}
+    		
+    	return elements;
+    }
+
+    private ArrayList<ArrayList<String>> MakeOCRTextElementInLines(ArrayList<OCRTextElement> elements) {
+    	ArrayList<ArrayList<String>> lines = new ArrayList<ArrayList<String>>();
+    	if(null == elements)
+    		return lines;
+    	ArrayList<int> indexList = new ArrayList<int>();
+    	int length = elements.toArray().length;
+    	for(int i = 0; i < length; i++) {
+    		
+    	}
+    	
+    }
+}

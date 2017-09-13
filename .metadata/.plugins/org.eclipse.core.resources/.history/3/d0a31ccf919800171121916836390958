@@ -1,0 +1,96 @@
+// 
+// Michael Li(http://www.github.com/micli). All rights reserved.
+// Licensed under the MIT license.
+// 
+// Microsoft Cognitive Services: https://www.microsoft.com/cognitive-services
+// 
+// 
+// 
+// MIT License:
+// Permission is hereby granted, free of charge, to any person obtaining
+// a copy of this software and associated documentation files (the
+// "Software"), to deal in the Software without restriction, including
+// without limitation the rights to use, copy, modify, merge, publish,
+// distribute, sublicense, and/or sell copies of the Software, and to
+// permit persons to whom the Software is furnished to do so, subject to
+// the following conditions:
+// 
+// The above copyright notice and this permission notice shall be
+// included in all copies or substantial portions of the Software.
+// 
+// THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND,
+// EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+// MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+// NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+// LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+// OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+// WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+// 
+
+package com.github.micli.cognitiveservice.api;
+
+import static org.junit.Assert.*;
+
+import java.net.URI;
+import java.net.URISyntaxException;
+import java.util.ArrayList;
+import java.util.Stack;
+
+import org.junit.Test;
+
+import com.github.micli.cognitiveservice.api.result.ObjectResult;
+import com.github.micli.cognitiveservice.api.vision.ChinaMainlandIdentityCard;
+import com.github.micli.cognitiveservice.api.vision.ChinaMainlandIdentityCardInfo;
+import com.github.micli.cognitiveservice.api.vision.OCRLineElement;
+import com.github.micli.cognitiveservice.api.vision.OCRRegionElement;
+import com.github.micli.cognitiveservice.api.vision.OCRTextElement;
+import com.github.micli.cognitiveservice.api.vision.OCRValue;
+import com.github.micli.cognitiveservice.api.vision.Rectangle;
+import com.github.micli.cognitiveservice.api.vision.Vision;
+
+public class OCRTest {
+
+	private Vision vision;
+
+	public OCRTest() {
+		try {
+			vision = new Vision(new URI(AccessInfo.getVisionURI()), AccessInfo.getVisionAccessKey());
+		} catch (URISyntaxException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+
+	@Test
+	public void testOCRFromLocalFile() {
+		ObjectResult<OCRValue> result = vision.OCRFromLocalFile(
+				"/Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/test-materials/test-010.jpeg");
+		if (result.isSucceeded()) {
+			System.out.println(String.format("language = %s, \t Orientation = %s \t ",
+					result.getInstance().getLanguage(), result.getInstance().getOrientation()));
+		} else {
+			System.out.println(result.getError().toString());
+			fail("OCR call failed.");
+		}
+	}
+
+	@Test
+	public void testOCRFromInternetURL() {
+		ObjectResult<OCRValue> result = vision
+				.OCRFromInternetURL("https://micl.blob.core.windows.net/cstestimages/test-009.jpeg");
+		if (result.isSucceeded()) {
+			System.out.println(String.format("language = %s, \t Orientation = %s \t ",
+					result.getInstance().getLanguage(), result.getInstance().getOrientation()));
+		} else {
+			System.out.println(result.getError().toString());
+			fail("OCR call failed.");
+		}
+	}
+
+	@Test
+	public void testID1() throws URISyntaxException {
+
+			ChinaMainlandIdentityCard card = new ChinaMainlandIdentityCard(new URI(AccessInfo.getVisionURI()), AccessInfo.getVisionAccessKey());
+			ChinaMainlandIdentityCardInfo info = card.RetrieveFromLocalFile("/Users/micl/Desktop/IDs/3.jpg");
+		}
+}

@@ -1,0 +1,11 @@
+package com.github.micli.cognitiveservice.api.vision;
+
+public class ChinaMainlandIdentityCardInfo {
+
+	private String legalName = "";
+	private String gender = "";
+	private String ethnicGroup = "";
+	private java.util.GregorianCalendar birthday;
+	private String homeAddress = "";
+	private String identityNumber = "";
+}

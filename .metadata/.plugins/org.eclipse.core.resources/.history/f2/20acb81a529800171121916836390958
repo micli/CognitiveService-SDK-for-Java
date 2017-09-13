@@ -1,0 +1,36 @@
+package com.github.micli.cognitiveservice.api.vision;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class OCRLineElement {
+
+	public OCRLineElement() {
+		boundingBox = "";
+		words = new ArrayList<OCRTextElement>();
+	}
+
+	private String boundingBox;
+	private Rectangle rectangle;
+	private List<OCRTextElement> words;	
+	
+	public String getBoundingBox() {
+		return boundingBox;
+	}
+	public void setBoundingBox(String boundingBox) {
+		this.boundingBox = boundingBox;
+		this.rectangle = Rectangle.FromString(boundingBox);
+	}
+	public Rectangle getRectangle() {
+		return rectangle;
+	}
+	public void setRectangle(Rectangle rectangle) {
+		this.rectangle = rectangle;
+	}
+	public List<OCRTextElement> getWords() {
+		return words;
+	}
+	public void setWords(List<OCRTextElement> words) {
+		this.words = words;
+	}
+}

@@ -1,0 +1,52 @@
+package com.github.micli.cognitiveservice.api.vision;
+
+public class ChinaMainlandIdentityCardInfo {
+
+	public ChinaMainlandIdentityCardInfo() {
+		
+	}
+	
+	private String legalName = "";
+	private String gender = "";
+	private String ethnicGroup = "";
+	private java.util.GregorianCalendar birthday;
+	private String homeAddress = "";
+	private String identityNumber = "";
+	
+	public String getLegalName() {
+		return legalName;
+	}
+	public void setLegalName(String legalName) {
+		this.legalName = legalName;
+	}
+	public String getGender() {
+		return gender;
+	}
+	public void setGender(String gender) {
+		this.gender = gender;
+	}
+	public String getEthnicGroup() {
+		return ethnicGroup;
+	}
+	public void setEthnicGroup(String ethnicGroup) {
+		this.ethnicGroup = ethnicGroup;
+	}
+	public java.util.GregorianCalendar getBirthday() {
+		return birthday;
+	}
+	public void setBirthday(java.util.GregorianCalendar birthday) {
+		this.birthday = birthday;
+	}
+	public String getHomeAddress() {
+		return homeAddress;
+	}
+	public void setHomeAddress(String homeAddress) {
+		this.homeAddress = homeAddress;
+	}
+	public String getIdentityNumber() {
+		return identityNumber;
+	}
+	public void setIdentityNumber(String identityNumber) {
+		this.identityNumber = identityNumber;
+	}
+}

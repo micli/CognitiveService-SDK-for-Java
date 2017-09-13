@@ -542,3 +542,1005 @@ java.lang.NullPointerException: null
 2017-07-04 15:40:11,165 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
 2017-07-04 15:40:11,167 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-07-04 15:40:11,167 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 19:20:21,708 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 19:20:21,712 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 19:20:21,716 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 19:20:21,716 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 19:20:24,239 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.github.micli.cognitiveservice:api:0.3.0 @ /Users/micl/Documents/CognitiveService-SDK-for-Java/api/pom.xml.
+2017-09-12 19:20:24,395 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 19:20:24,395 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 19:20:24,397 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 19:20:24,397 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 19:20:25,896 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 19:20:25,896 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 19:20:25,898 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 19:20:25,898 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 19:22:08,840 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 19:22:08,844 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 19:22:08,846 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 19:22:08,847 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 19:22:10,860 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.github.micli.cognitiveservice:api:0.3.0 @ /Users/micl/Documents/CognitiveService-SDK-for-Java/api/pom.xml.
+2017-09-12 19:22:11,087 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 19:22:11,087 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 19:22:11,090 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 19:22:11,090 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 19:22:12,929 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 19:22:12,929 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 19:22:12,930 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 19:22:12,930 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 19:22:15,556 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 19:22:15,556 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 19:22:15,557 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 19:22:15,557 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 19:51:26,670 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 19:51:26,671 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 19:51:26,672 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 19:51:26,672 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 19:53:39,975 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 19:53:39,975 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 19:53:39,976 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 19:53:39,976 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 20:51:19,197 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 20:51:19,198 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 20:51:19,199 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 20:51:19,200 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 20:53:25,931 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 20:53:25,931 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 20:53:25,932 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 20:53:25,932 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 20:58:18,109 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 20:58:18,109 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 20:58:18,111 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 20:58:18,111 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 20:58:40,634 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 20:58:40,635 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 20:58:40,636 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 20:58:40,636 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 21:15:30,301 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 21:15:30,301 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 21:15:30,302 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 21:15:30,302 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 21:22:35,538 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 21:22:35,538 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 21:22:35,539 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 21:22:35,539 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 21:23:46,136 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 21:23:46,136 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 21:23:46,138 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 21:23:46,138 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 21:23:54,522 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 21:23:54,522 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 21:23:54,525 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 21:23:54,525 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 21:24:04,825 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 21:24:04,825 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 21:24:04,826 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 21:24:04,826 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 21:24:13,199 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 21:24:13,199 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 21:24:13,200 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 21:24:13,201 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 21:24:18,954 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 21:24:18,954 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 21:24:18,956 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 21:24:18,956 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 21:24:25,807 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 21:24:25,808 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 21:24:25,809 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 21:24:25,809 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 21:25:19,206 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 21:25:19,206 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 21:25:19,207 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 21:25:19,207 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 21:25:22,653 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 21:25:22,653 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 21:25:22,653 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 21:25:22,653 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 21:35:55,960 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 21:35:55,961 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 21:35:55,962 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 21:35:55,962 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 21:38:18,585 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 21:38:18,585 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 21:38:18,587 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 21:38:18,587 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 21:38:25,679 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 21:38:25,679 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 21:38:25,680 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 21:38:25,680 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 21:40:18,399 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 21:40:18,399 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 21:40:18,400 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 21:40:18,400 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 22:08:21,079 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 22:08:21,079 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 22:08:21,080 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 22:08:21,080 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 22:09:01,197 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 22:09:01,197 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 22:09:01,198 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 22:09:01,198 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 22:09:23,127 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 22:09:23,127 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 22:09:23,128 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 22:09:23,128 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 22:11:19,052 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 22:11:19,052 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 22:11:19,053 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 22:11:19,053 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 22:11:51,613 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 22:11:51,613 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 22:11:51,614 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 22:11:51,614 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 22:17:44,281 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 22:17:44,282 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 22:17:44,282 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 22:17:44,282 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 22:18:01,767 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 22:18:01,767 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 22:18:01,768 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 22:18:01,769 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 22:19:38,046 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 22:19:38,046 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 22:19:38,047 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 22:19:38,048 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 22:24:12,297 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 22:24:12,297 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 22:24:12,298 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 22:24:12,298 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 22:26:33,833 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 22:26:33,833 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 22:26:33,834 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 22:26:33,834 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 22:27:19,041 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 22:27:19,041 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 22:27:19,042 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 22:27:19,042 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 22:28:03,490 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 22:28:03,490 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 22:28:03,491 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 22:28:03,491 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 22:28:20,767 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 22:28:20,767 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 22:28:20,767 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 22:28:20,768 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 22:47:12,982 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 22:47:12,982 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 22:47:12,983 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 22:47:12,983 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 22:51:09,631 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 22:51:09,632 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 22:51:09,632 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 22:51:09,633 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 22:56:22,211 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 22:56:22,211 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 22:56:22,212 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 22:56:22,212 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 23:23:35,421 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 23:23:35,421 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 23:23:35,422 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 23:23:35,422 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 23:24:27,724 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 23:24:27,724 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 23:24:27,724 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 23:24:27,724 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 23:28:15,414 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 23:28:15,414 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 23:28:15,416 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 23:28:15,416 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 23:28:51,815 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 23:28:51,815 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 23:28:51,816 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 23:28:51,816 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 23:32:40,963 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 23:32:40,964 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 23:32:40,964 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 23:32:40,964 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 23:37:28,189 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 23:37:28,189 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 23:37:28,190 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 23:37:28,190 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 23:39:34,795 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 23:39:34,795 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 23:39:34,795 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 23:39:34,795 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 23:40:09,169 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 23:40:09,169 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 23:40:09,172 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 23:40:09,172 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 23:40:47,402 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 23:40:47,402 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 23:40:47,403 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 23:40:47,403 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 23:48:16,980 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 23:48:16,980 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 23:48:16,980 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 23:48:16,980 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 23:48:57,146 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 23:48:57,146 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 23:48:57,147 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 23:48:57,147 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 23:49:25,691 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 23:49:25,691 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 23:49:25,692 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 23:49:25,692 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 23:50:38,881 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 23:50:38,881 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 23:50:38,881 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 23:50:38,882 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 23:53:04,946 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 23:53:04,946 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 23:53:04,946 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 23:53:04,947 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-12 23:58:13,784 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 23:58:13,785 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-12 23:58:13,785 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-12 23:58:13,785 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 00:00:46,442 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 00:00:46,442 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 00:00:46,444 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 00:00:46,444 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 00:01:45,370 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 00:01:45,370 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 00:01:45,370 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 00:01:45,371 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 00:05:39,551 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 00:05:39,551 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 00:05:39,552 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 00:05:39,552 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 00:09:28,655 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 00:09:28,655 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 00:09:28,655 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 00:09:28,656 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 00:17:24,297 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 00:17:24,297 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 00:17:24,298 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 00:17:24,298 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 00:25:48,657 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 00:25:48,657 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 00:25:48,658 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 00:25:48,658 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 00:27:39,004 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 00:27:39,004 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 00:27:39,005 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 00:27:39,005 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 00:38:15,842 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 00:38:15,842 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 00:38:15,843 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 00:38:15,843 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 00:39:01,383 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 00:39:01,383 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 00:39:01,384 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 00:39:01,384 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 00:42:09,221 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 00:42:09,221 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 00:42:09,222 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 00:42:09,222 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 00:42:18,310 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 00:42:18,310 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 00:42:18,311 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 00:42:18,311 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 00:44:04,952 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 00:44:04,952 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 00:44:04,953 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 00:44:04,953 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 00:46:14,470 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 00:46:14,471 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 00:46:14,472 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 00:46:14,472 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 00:50:45,113 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 00:50:45,113 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 00:50:45,113 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 00:50:45,114 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 00:51:10,955 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 00:51:10,955 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 00:51:10,956 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 00:51:10,956 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 00:53:04,985 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 00:53:04,985 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 00:53:04,986 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 00:53:04,986 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 08:19:28,472 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 08:19:28,475 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 08:19:28,478 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 08:19:28,478 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 09:04:21,200 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 09:04:21,201 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 09:04:21,202 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 09:04:21,203 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 09:04:27,147 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 09:04:27,148 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 09:04:27,149 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 09:04:27,149 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 09:06:31,985 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 09:06:31,985 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 09:06:31,987 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 09:06:31,987 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 09:07:04,640 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 09:07:04,640 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 09:07:04,642 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 09:07:04,642 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 09:07:28,178 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 09:07:28,178 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 09:07:28,180 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 09:07:28,180 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 09:07:32,571 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 09:07:32,571 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 09:07:32,572 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 09:07:32,572 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 09:11:48,163 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 09:11:48,163 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 09:11:48,165 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 09:11:48,165 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 10:29:22,626 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:29:22,626 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 10:29:22,629 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:29:22,629 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 10:29:55,250 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:29:55,250 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 10:29:55,251 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:29:55,252 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 10:30:24,590 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:30:24,590 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 10:30:24,591 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:30:24,592 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 10:31:46,565 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:31:46,565 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 10:31:46,566 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:31:46,566 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 10:31:55,841 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:31:55,841 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 10:31:55,842 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:31:55,843 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 10:32:22,495 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:32:22,495 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 10:32:22,496 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 10:32:22,497 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 11:17:35,753 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 11:17:35,753 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 11:17:35,754 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 11:17:35,754 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 11:17:56,038 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 11:17:56,038 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 11:17:56,039 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 11:17:56,039 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 11:25:30,709 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 11:25:30,709 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 11:25:30,712 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 11:25:30,712 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 11:26:06,388 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 11:26:06,388 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 11:26:06,389 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 11:26:06,390 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 11:26:13,201 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 11:26:13,201 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 11:26:13,202 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 11:26:13,202 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 11:33:00,163 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 11:33:00,163 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 11:33:00,164 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 11:33:00,164 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 11:35:09,306 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 11:35:09,306 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 11:35:09,307 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 11:35:09,307 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 11:36:25,539 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 11:36:25,539 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 11:36:25,539 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 11:36:25,539 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 11:36:38,618 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 11:36:38,618 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 11:36:38,619 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 11:36:38,619 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 11:41:00,380 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 11:41:00,380 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 11:41:00,381 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 11:41:00,381 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 11:41:13,083 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 11:41:13,083 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 11:41:13,084 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 11:41:13,084 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 11:42:03,609 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 11:42:03,609 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 11:42:03,610 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 11:42:03,610 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 11:43:04,253 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 11:43:04,253 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 11:43:04,254 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 11:43:04,254 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 11:47:13,949 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 11:47:13,949 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 11:47:13,950 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 11:47:13,950 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 12:47:19,237 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 12:47:19,238 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 12:47:19,239 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 12:47:19,239 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 12:48:12,752 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 12:48:12,753 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 12:48:12,753 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 12:48:12,753 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 12:49:21,398 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 12:49:21,398 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 12:49:21,399 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 12:49:21,400 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 12:56:30,099 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 12:56:30,100 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 12:56:30,101 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 12:56:30,101 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 13:05:41,163 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:05:41,166 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 13:05:41,167 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:05:41,167 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 13:27:17,998 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:27:17,998 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 13:27:18,000 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:27:18,001 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 13:29:44,063 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:29:44,063 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 13:29:44,064 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:29:44,064 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 13:30:06,023 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:30:06,023 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 13:30:06,024 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:30:06,024 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 13:30:20,270 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:30:20,270 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 13:30:20,271 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:30:20,271 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 13:31:34,766 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:31:34,766 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 13:31:34,767 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:31:34,767 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 13:32:33,399 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:32:33,399 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 13:32:33,400 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:32:33,400 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 13:34:02,042 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:34:02,042 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 13:34:02,043 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:34:02,044 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 13:35:35,943 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:35:35,943 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 13:35:35,946 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:35:35,946 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 13:35:47,031 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:35:47,031 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 13:35:47,032 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:35:47,032 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 13:36:07,831 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:36:07,831 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 13:36:07,832 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:36:07,832 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 13:37:26,709 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:37:26,709 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 13:37:26,709 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:37:26,710 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 13:38:04,971 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:38:04,972 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 13:38:04,973 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:38:04,973 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 13:41:19,643 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:41:19,643 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 13:41:19,644 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:41:19,644 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 13:41:42,719 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:41:42,719 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 13:41:42,720 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:41:42,720 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 13:43:32,216 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:43:32,216 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 13:43:32,218 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:43:32,218 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 13:44:40,780 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:44:40,780 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 13:44:40,781 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:44:40,782 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 13:44:44,325 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:44:44,326 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 13:44:44,327 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:44:44,327 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 13:44:52,837 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:44:52,837 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 13:44:52,839 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:44:52,839 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 13:45:17,071 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:45:17,071 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 13:45:17,072 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:45:17,073 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 13:45:42,886 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:45:42,886 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 13:45:42,887 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:45:42,887 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 13:49:11,216 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:49:11,216 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 13:49:11,217 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:49:11,217 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 13:59:03,604 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:59:03,604 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 13:59:03,605 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:59:03,605 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 13:59:14,135 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:59:14,135 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 13:59:14,136 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:59:14,136 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 13:59:16,725 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:59:16,726 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 13:59:16,727 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 13:59:16,727 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:03:45,834 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:03:45,834 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:03:45,835 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:03:45,835 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:04:46,204 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:04:46,204 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:04:46,205 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:04:46,206 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:11:26,340 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:11:26,340 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:11:26,341 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:11:26,341 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:11:32,979 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:11:32,979 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:11:32,980 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:11:32,980 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:13:07,879 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:13:07,879 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:13:07,880 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:13:07,880 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:13:13,460 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:13:13,460 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:13:13,460 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:13:13,460 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:13:39,018 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:13:39,018 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:13:39,019 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:13:39,020 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:15:26,981 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:15:26,981 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:15:26,982 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:15:26,982 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:15:40,708 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:15:40,708 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:15:40,708 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:15:40,708 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:16:41,626 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:16:41,626 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:16:41,627 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:16:41,627 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:18:09,404 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:18:09,404 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:18:09,404 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:18:09,404 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:18:49,914 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:18:49,914 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:18:49,915 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:18:49,915 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:20:03,822 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:20:03,822 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:20:03,823 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:20:03,823 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:22:55,092 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:22:55,092 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:22:55,093 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:22:55,093 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:26:05,868 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:26:05,868 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:26:05,869 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:26:05,869 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:26:46,773 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:26:46,773 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:26:46,774 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:26:46,774 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:27:38,486 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:27:38,486 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:27:38,487 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:27:38,487 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:31:16,508 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:31:16,508 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:31:16,509 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:31:16,509 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:52:29,713 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:52:29,713 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:52:29,714 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:52:29,714 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:52:33,816 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:52:33,816 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:52:33,817 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:52:33,817 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:52:54,079 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:52:54,079 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:52:54,080 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:52:54,080 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:53:16,314 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:53:16,314 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:53:16,314 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:53:16,314 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:53:26,757 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:53:26,757 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:53:26,758 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:53:26,758 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:53:35,325 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:53:35,325 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:53:35,326 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:53:35,326 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:53:55,001 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:53:55,001 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:53:55,002 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:53:55,002 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:54:17,119 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:54:17,119 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:54:17,121 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:54:17,121 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:55:10,192 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:55:10,192 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:55:10,193 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:55:10,193 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:55:22,699 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:55:22,699 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:55:22,699 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:55:22,700 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:55:45,387 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:55:45,387 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:55:45,388 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:55:45,388 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:55:56,569 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:55:56,569 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:55:56,570 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:55:56,570 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:56:06,339 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:56:06,339 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:56:06,340 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:56:06,340 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:56:15,904 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:56:15,904 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:56:15,905 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:56:15,905 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:56:28,373 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:56:28,374 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:56:28,375 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:56:28,375 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:56:41,056 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:56:41,056 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:56:41,057 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:56:41,058 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:56:55,196 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:56:55,196 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:56:55,197 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:56:55,197 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:57:04,647 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:57:04,647 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:57:04,648 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:57:04,648 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:57:14,159 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:57:14,159 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:57:14,160 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:57:14,160 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:57:23,545 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:57:23,545 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:57:23,546 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:57:23,546 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:57:37,476 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:57:37,476 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:57:37,477 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:57:37,477 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:57:47,592 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:57:47,592 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:57:47,593 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:57:47,593 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:57:58,979 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:57:58,979 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:57:58,980 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:57:58,980 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:58:12,148 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:58:12,148 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:58:12,148 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:58:12,148 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:58:23,905 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:58:23,905 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:58:23,905 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:58:23,905 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:58:35,544 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:58:35,544 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:58:35,544 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:58:35,544 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:58:51,100 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:58:51,100 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:58:51,101 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:58:51,101 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:59:00,647 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:59:00,647 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:59:00,648 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:59:00,648 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:59:09,929 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:59:09,929 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:59:09,929 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:59:09,929 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:59:21,426 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:59:21,426 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:59:21,426 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:59:21,426 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:59:31,177 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:59:31,177 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:59:31,178 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:59:31,178 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 14:59:40,075 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:59:40,075 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 14:59:40,076 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 14:59:40,076 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 15:00:30,108 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:00:30,108 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 15:00:30,108 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:00:30,108 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 15:00:38,508 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:00:38,508 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 15:00:38,509 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:00:38,509 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 15:00:46,862 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:00:46,862 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 15:00:46,863 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:00:46,863 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 15:00:55,061 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:00:55,061 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 15:00:55,062 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:00:55,062 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 15:01:03,056 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:01:03,056 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 15:01:03,056 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:01:03,056 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 15:01:11,756 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:01:11,756 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 15:01:11,757 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:01:11,757 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 15:01:20,326 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:01:20,326 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 15:01:20,326 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:01:20,326 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 15:02:46,536 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:02:46,536 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 15:02:46,537 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:02:46,537 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 15:02:55,427 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:02:55,427 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 15:02:55,427 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:02:55,427 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 15:03:03,899 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:03:03,899 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 15:03:03,900 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:03:03,900 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 15:03:12,976 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:03:12,976 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 15:03:12,977 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:03:12,977 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 15:03:22,558 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:03:22,558 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 15:03:22,558 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:03:22,558 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 15:03:30,158 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:03:30,158 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 15:03:30,159 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:03:30,159 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 15:03:38,479 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:03:38,479 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 15:03:38,480 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:03:38,480 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 15:03:46,794 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:03:46,794 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 15:03:46,795 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:03:46,795 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 15:03:57,573 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:03:57,574 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 15:03:57,574 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:03:57,574 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 15:04:06,746 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:04:06,746 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 15:04:06,746 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:04:06,746 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 15:04:31,689 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:04:31,689 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 15:04:31,690 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:04:31,690 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 15:04:50,355 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:04:50,356 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 15:04:50,356 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:04:50,356 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 15:06:39,271 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:06:39,271 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 15:06:39,271 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:06:39,271 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 15:06:46,234 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:06:46,234 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 15:06:46,235 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:06:46,235 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 15:07:11,303 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:07:11,303 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 15:07:11,304 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:07:11,304 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 15:07:24,711 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:07:24,711 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 15:07:24,711 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:07:24,711 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 15:07:39,226 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:07:39,226 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 15:07:39,226 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:07:39,227 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 15:08:11,817 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:08:11,817 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 15:08:11,817 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:08:11,817 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 15:08:19,824 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:08:19,824 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 15:08:19,824 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:08:19,824 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 15:08:31,840 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:08:31,840 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 15:08:31,841 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:08:31,841 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 15:08:41,680 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:08:41,680 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 15:08:41,681 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:08:41,681 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 15:08:50,158 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:08:50,159 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 15:08:50,159 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:08:50,159 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 15:09:00,106 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:09:00,106 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 15:09:00,107 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:09:00,107 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 15:09:09,238 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:09:09,239 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 15:09:09,239 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:09:09,239 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 15:16:31,246 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:16:31,246 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 15:16:31,247 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:16:31,247 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 15:39:09,885 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:39:09,885 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 15:39:09,886 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:39:09,886 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 15:40:46,410 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:40:46,410 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 15:40:46,411 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:40:46,411 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 15:56:37,813 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:56:37,814 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 15:56:37,815 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 15:56:37,815 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 16:14:38,475 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 16:14:38,475 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 16:14:38,476 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 16:14:38,476 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 16:18:10,414 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 16:18:10,414 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 16:18:10,415 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 16:18:10,415 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 16:19:58,008 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 16:19:58,008 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 16:19:58,009 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 16:19:58,009 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 16:20:55,788 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 16:20:55,788 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 16:20:55,789 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 16:20:55,789 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 16:21:46,090 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 16:21:46,090 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 16:21:46,091 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 16:21:46,091 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 16:46:41,446 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 16:46:41,446 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 16:46:41,447 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 16:46:41,447 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 16:54:35,905 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 16:54:35,905 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 16:54:35,906 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 16:54:35,906 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 20:31:10,340 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 20:31:10,341 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 20:31:10,342 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 20:31:10,342 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 20:51:55,183 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 20:51:55,183 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 20:51:55,184 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 20:51:55,184 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 20:54:22,848 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 20:54:22,848 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 20:54:22,849 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 20:54:22,849 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 21:05:53,118 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 21:05:53,118 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 21:05:53,118 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 21:05:53,119 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 21:41:52,723 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 21:41:52,724 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 21:41:52,724 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 21:41:52,725 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 21:42:23,720 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 21:42:23,720 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 21:42:23,721 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 21:42:23,721 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 22:15:18,843 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:15:18,843 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 22:15:18,844 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:15:18,844 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 22:23:51,630 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:23:51,630 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 22:23:51,630 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:23:51,630 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 22:24:02,179 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:24:02,179 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 22:24:02,180 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:24:02,180 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 22:27:44,539 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:27:44,539 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 22:27:44,540 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:27:44,540 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 22:27:58,645 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:27:58,645 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 22:27:58,646 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:27:58,646 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 22:30:02,666 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:30:02,666 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 22:30:02,667 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:30:02,667 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 22:31:01,248 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:31:01,249 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 22:31:01,249 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:31:01,249 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 22:32:44,636 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:32:44,636 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 22:32:44,638 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:32:44,638 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 22:39:06,350 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:39:06,350 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 22:39:06,351 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:39:06,351 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 22:39:44,906 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:39:44,906 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 22:39:44,906 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:39:44,907 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 22:41:32,468 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:41:32,468 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 22:41:32,469 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:41:32,469 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 22:42:08,480 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:42:08,480 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 22:42:08,481 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:42:08,481 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 22:42:47,080 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:42:47,080 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 22:42:47,080 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:42:47,080 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 22:43:30,113 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:43:30,113 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 22:43:30,114 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:43:30,114 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 22:44:22,165 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:44:22,166 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 22:44:22,167 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:44:22,167 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 22:47:12,305 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:47:12,305 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 22:47:12,307 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:47:12,307 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 22:48:53,876 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:48:53,876 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 22:48:53,876 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:48:53,877 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 22:49:46,774 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:49:46,774 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 22:49:46,775 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:49:46,775 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 22:50:07,382 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:50:07,382 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 22:50:07,383 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:50:07,383 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 22:50:20,959 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:50:20,959 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 22:50:20,960 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:50:20,960 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources
+2017-09-13 22:50:44,648 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:50:44,648 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/main/resources
+2017-09-13 22:50:44,649 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-13 22:50:44,649 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/resources

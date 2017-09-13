@@ -1,0 +1,44 @@
+package com.github.micli.cognitiveservice.api.vision;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class OCRValue {
+
+	public OCRValue() {
+		setLanguage("");
+		setTextAngle(0.0f);
+		setOrientation("up");
+		setRegions(new ArrayList<OCRRegionElement>());
+	}
+	
+	private String language;
+	private double textAngle;
+	private String orientation;
+	private List<OCRRegionElement> regions;
+	
+	public String getLanguage() {
+		return language;
+	}
+	public void setLanguage(String language) {
+		this.language = language;
+	}
+	public double getTextAngle() {
+		return textAngle;
+	}
+	public void setTextAngle(double textAngle) {
+		this.textAngle = textAngle;
+	}
+	public String getOrientation() {
+		return orientation;
+	}
+	public void setOrientation(String orientation) {
+		this.orientation = orientation;
+	}
+	public List<OCRRegionElement> getRegions() {
+		return regions;
+	}
+	public void setRegions(List<OCRRegionElement> regions) {
+		this.regions = regions;
+	}
+}

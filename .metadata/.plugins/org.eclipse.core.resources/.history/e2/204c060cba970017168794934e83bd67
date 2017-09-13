@@ -1,0 +1,9 @@
+package com.github.micli.cognitiveservice.api.vision;
+
+public class ChineseIdentityCard {
+
+	public ChineseIdentityCard() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

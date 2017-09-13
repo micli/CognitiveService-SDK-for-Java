@@ -5,8 +5,6 @@
 // Microsoft Cognitive Services: https://www.microsoft.com/cognitive-services
 // 
 // 
-// Copyright (c) Microsoft Corporation
-// All rights reserved.
 // 
 // MIT License:
 // Permission is hereby granted, free of charge, to any person obtaining
@@ -28,7 +26,6 @@
 // OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 // WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 // 
-
 package com.github.micli.cognitiveservice.api.common;
 
 import java.io.UnsupportedEncodingException;

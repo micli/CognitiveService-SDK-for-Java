@@ -1,0 +1,25 @@
+package com.github.micli.cognitiveservice.api.vision;
+
+import java.net.URI;
+
+import com.github.micli.cognitiveservice.api.result.ObjectResult;
+
+public class ChinaMainlandIdentityCard {
+	private Vision vision = null;
+	public ChinaMainlandIdentityCard(URI endPoint, String accessKey) {
+		// TODO Auto-generated constructor stub
+		vision = new Vision(endPoint, accessKey);
+	}
+
+    public ChinaMainlandIdentityCardInfo RetrieveFromLocalFile(String filePath){
+    	if(null == filePath || "" == filePath)
+    		return null;
+		ObjectResult<OCRValue> result = vision.OCRFromLocalFile(filePath);
+		if(!result.isSucceeded())
+			return null;
+		
+    }
+    public ChinaMainlandIdentityCardInfo RetrieveFromInternetURL(String URL){
+    	
+    }    
+}

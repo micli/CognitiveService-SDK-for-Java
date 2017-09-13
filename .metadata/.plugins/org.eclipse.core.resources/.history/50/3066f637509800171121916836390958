@@ -1,0 +1,67 @@
+package com.github.micli.cognitiveservice.api;
+
+import static org.junit.Assert.*;
+
+import java.net.URI;
+import java.net.URISyntaxException;
+import java.util.ArrayList;
+import java.util.Stack;
+
+import org.junit.Test;
+
+import com.github.micli.cognitiveservice.api.result.ObjectResult;
+import com.github.micli.cognitiveservice.api.vision.ChinaMainlandIdentityCard;
+import com.github.micli.cognitiveservice.api.vision.ChinaMainlandIdentityCardInfo;
+import com.github.micli.cognitiveservice.api.vision.OCRLineElement;
+import com.github.micli.cognitiveservice.api.vision.OCRRegionElement;
+import com.github.micli.cognitiveservice.api.vision.OCRTextElement;
+import com.github.micli.cognitiveservice.api.vision.OCRValue;
+import com.github.micli.cognitiveservice.api.vision.Rectangle;
+import com.github.micli.cognitiveservice.api.vision.Vision;
+
+public class OCRTest {
+
+	private Vision vision;
+
+	public OCRTest() {
+		try {
+			vision = new Vision(new URI(AccessInfo.getVisionURI()), AccessInfo.getVisionAccessKey());
+		} catch (URISyntaxException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+
+	@Test
+	public void testOCRFromLocalFile() {
+		ObjectResult<OCRValue> result = vision.OCRFromLocalFile(
+				"/Users/micl/Documents/CognitiveService-SDK-for-Java/api/src/test/test-materials/test-010.jpeg");
+		if (result.isSucceeded()) {
+			System.out.println(String.format("language = %s, \t Orientation = %s \t ",
+					result.getInstance().getLanguage(), result.getInstance().getOrientation()));
+		} else {
+			System.out.println(result.getError().toString());
+			fail("OCR call failed.");
+		}
+	}
+
+	@Test
+	public void testOCRFromInternetURL() {
+		ObjectResult<OCRValue> result = vision
+				.OCRFromInternetURL("https://micl.blob.core.windows.net/cstestimages/test-009.jpeg");
+		if (result.isSucceeded()) {
+			System.out.println(String.format("language = %s, \t Orientation = %s \t ",
+					result.getInstance().getLanguage(), result.getInstance().getOrientation()));
+		} else {
+			System.out.println(result.getError().toString());
+			fail("OCR call failed.");
+		}
+	}
+
+	@Test
+	public void testID1() throws URISyntaxException {
+
+			ChinaMainlandIdentityCard card = new ChinaMainlandIdentityCard(new URI(AccessInfo.getVisionURI()), AccessInfo.getVisionAccessKey());
+			ChinaMainlandIdentityCardInfo info = card.RetrieveFromLocalFile("/Users/micl/Desktop/IDs/9.jpg");
+		}
+}

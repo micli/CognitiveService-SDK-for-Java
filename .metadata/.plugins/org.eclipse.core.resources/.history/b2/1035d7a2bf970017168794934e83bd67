@@ -1,0 +1,18 @@
+package com.github.micli.cognitiveservice.api.vision;
+
+import java.net.URI;
+
+public class ChinaMainlandIdentityCard {
+	private Vision vision = null;
+	public ChinaMainlandIdentityCard(URI endPoint, String accessKey) {
+		// TODO Auto-generated constructor stub
+		vision = new Vision(endPoint, accessKey);
+	}
+
+    public ChinaMainlandIdentityCardInfo RetrieveFromLocalFile(String filePath){
+    	
+    }
+    public ChinaMainlandIdentityCardInfo RetrieveFromInternetURL(String filePath){
+    	
+    }    
+}
